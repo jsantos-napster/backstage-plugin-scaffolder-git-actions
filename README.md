@@ -15,7 +15,7 @@ This contains a collection of actions for using with git:
 In the root directory of your Backstage project:
 
 ```
-yarn add --cwd packages/backend @mdude2314/backstage-plugin-scaffolder-git-actions
+yarn --cwd packages/backend add @mdude2314/backstage-plugin-scaffolder-git-actions
 ```
 
 Add the actions you'd like to the scaffolder:
